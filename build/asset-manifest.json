@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d12fafbe.chunk.css",
+    "main.js": "/static/js/main.381745c9.chunk.js",
+    "main.js.map": "/static/js/main.381745c9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5dfefed0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5dfefed0.js.map",
+    "static/js/2.bb46498d.chunk.js": "/static/js/2.bb46498d.chunk.js",
+    "static/js/2.bb46498d.chunk.js.map": "/static/js/2.bb46498d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.d12fafbe.chunk.css.map": "/static/css/main.d12fafbe.chunk.css.map",
+    "static/js/2.bb46498d.chunk.js.LICENSE.txt": "/static/js/2.bb46498d.chunk.js.LICENSE.txt",
+    "static/media/bootstrap.f132cb79.png": "/static/media/bootstrap.f132cb79.png",
+    "static/media/cpp.848ffa12.png": "/static/media/cpp.848ffa12.png",
+    "static/media/html.397540de.png": "/static/media/html.397540de.png",
+    "static/media/java.322b8c9f.png": "/static/media/java.322b8c9f.png",
+    "static/media/javascript.621f6061.png": "/static/media/javascript.621f6061.png",
+    "static/media/laravel.c9caeace.png": "/static/media/laravel.c9caeace.png",
+    "static/media/myself.8d4a3f87.jpg": "/static/media/myself.8d4a3f87.jpg",
+    "static/media/php.d6fa7cd9.png": "/static/media/php.d6fa7cd9.png",
+    "static/media/postgresql.1b9b2da8.png": "/static/media/postgresql.1b9b2da8.png",
+    "static/media/react.169fac03.png": "/static/media/react.169fac03.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5dfefed0.js",
+    "static/js/2.bb46498d.chunk.js",
+    "static/css/main.d12fafbe.chunk.css",
+    "static/js/main.381745c9.chunk.js"
+  ]
+}
